@@ -1,16 +1,18 @@
-### masih perlu banyak belajar 😄
 
-<!--
-**givpn/givpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# givpn network
 
-Here are some ideas to get you started:
+I still need to learn, let's study with me to start something new...!!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![anime](https://avatars.githubusercontent.com/u/123780158?v=4)
+
+
+## telegram
+[![givpn contact](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://t.me/givpn/)
+[![telegram grup](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/givpn_grup/)
+
+
+## license
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
