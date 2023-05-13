@@ -11,6 +11,7 @@
 ## [telegram contact](https://t.me/givpn/)
 ## [telegram grup](https://t.me/givpn_grup/)
 ## [github profile](https://givpn.github.io/)
+## [buy me kofi](https://ko-fi.com/givpn/)
 
 
 
