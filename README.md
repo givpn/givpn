@@ -1,9 +1,7 @@
 # You're welcome
-
+# currently studying on github
 
 ![hippo](https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif)
-
-## [github profile](https://givpn.github.io/)
 
 
 ## Telegram (Contact)
