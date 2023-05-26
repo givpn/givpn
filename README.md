@@ -12,7 +12,6 @@
 
 
 
-## license
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## Donation
+[![Ko-fi donate button](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d5cf697cee7ca5b65d9_Button-p-500.png)](https://paypal.me/givpn11)
 [![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/givpn11)
