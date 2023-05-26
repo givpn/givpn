@@ -6,7 +6,7 @@
 
 ## Telegram (Contact)
 [![Telegram](https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif)](https://t.me/givpn/)
-## Telegram Grup
+## Telegram (Grup)
 [![Telegram](https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif)](https://t.me/givpn_grup/)
 
 
