@@ -1,10 +1,7 @@
-
-# bio
-
-# I still need to learn, let's study with me to start something new...!!!
+# You're welcome
 
 
-![anime](https://avatars.githubusercontent.com/u/123780158?v=4)
+![hippo](https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif)
 
 
 ## telegram
@@ -16,6 +13,6 @@
 
 
 ## license
-
-# [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/givpn11)
