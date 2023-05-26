@@ -1,4 +1,4 @@
-# You're welcome
+# Thank you for coming
 # currently studying on github
 
 ![hippo](https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif)
