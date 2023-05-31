@@ -6,9 +6,8 @@
 ![hippo](https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif)
 
 
-## Telegram (Contact)
+## Telegram
 [![Telegram](https://raw.githubusercontent.com/givpn/givpn/main/chat.png)](https://t.me/givpn/)
-## Telegram (Grup)
 [![Telegram](https://raw.githubusercontent.com/givpn/givpn/main/grup.png)](https://t.me/givpn_grup/)
 
 
