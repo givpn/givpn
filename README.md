@@ -7,9 +7,9 @@
 
 
 ## Telegram (Contact)
-[![Telegram](https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif)](https://t.me/givpn/)
+[![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/givpn/)
 ## Telegram (Grup)
-[![Telegram](https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif)](https://t.me/givpn_grup/)
+[![Telegram](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/givpn_grup/)
 
 
 ## Donation (Thanks for your support me)
