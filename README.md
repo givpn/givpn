@@ -1,6 +1,7 @@
 # Thank you for coming
 # Pinned
 - [autovps](https://github.com/givpn/autovps)
+- [nogod](https://github.com/givpn/nogod)
 # currently studying on github
 # DON'T FORGET TO BE HAPPY
 ![hippo](https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif)
