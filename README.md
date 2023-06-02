@@ -1,6 +1,7 @@
 # Thank you for coming
 # Pinned Favorit
 - [nogod](https://github.com/givpn/nogod)
+- [AutoScriptXray](https://github.com/givpn/AutoScriptXray)
 # currently studying on github
 # DON'T FORGET TO BE HAPPY
 ![hippo](https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif)
