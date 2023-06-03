@@ -1,11 +1,19 @@
-# Thank you for coming
-# Pinned Favorit
-- [nogod](https://github.com/givpn/nogod)
-- [AutoScriptXray](https://github.com/givpn/AutoScriptXray)
-# currently studying on github
-# DON'T FORGET TO BE HAPPY
-![hippo](https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif)
-
+<div>
+<h1 align="center">Thank you for coming</h1>
+</div>
+<div>
+<h1 align="center">currently studying on github</h1>
+  </div>
+<div>
+<p align="center">
+  <b>Pinned Favorit</b><br>
+  <b><a href="https://github.com/givpn/nogod">nogod</a></b><br>
+  <b><a href="https://github.com/givpn/AutoScriptXray">AutoScriptXray</a></b><br>
+  <br><br>
+    <b>DON'T FORGET TO BE HAPPY</b><br>
+  <img src="https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif">
+</p>
+  </div>
 
 ## Telegram
 [![Telegram-chat](https://raw.githubusercontent.com/givpn/telegram-button/main/chat-telegram.png)](https://t.me/givpn/)
