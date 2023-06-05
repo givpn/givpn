@@ -7,7 +7,7 @@
 <div>
 <p align="center">
   <b>Pinned Favorit</b><br>
-  <b><a href="https://github.com/givpn/nogod">nogod</a></b><br>
+  <b><a href="https://github.com/givpn/autoset">autoset</a></b><br>
   <b><a href="https://github.com/givpn/AutoScriptXray">AutoScriptXray</a></b><br>
   <br><br>
     <b>DON'T FORGET TO BE HAPPY</b><br>
