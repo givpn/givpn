@@ -1,9 +1,6 @@
 <div>
-<h1 align="center">Thank you for coming</h1>
+<h1 align="center">You Welcome</h1>
 </div>
-<div>
-<h1 align="center">currently studying on github</h1>
-  </div>
 <div>
 <p align="center">
   <b>Pinned Favorit</b><br>
