@@ -1,3 +1,4 @@
+
 <div>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&pause=1000&color=0600F7&center=true&vCenter=true&width=435&lines=Welcome+to+givpn+in+github;Not+an+expert+just+a+hobbyist" alt="Typing SVG" /></a></h1>
 </div>
@@ -28,3 +29,4 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ![profile views](https://komarev.com/ghpvc/?username=givpn11&color=blue)
+# TERUSLAH HIDUP WALAU MASIH JADI BEBAN KELUARGA
