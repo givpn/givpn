@@ -25,7 +25,7 @@
 [![Ko-fi donate button](https://img.shields.io/badge/Donate-Ko--fi-red)](https://ko-fi.com/givpn11)
 [![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-blue)](https://paypal.me/givpn11)
 
-# LICENSE
+# LICENSE CAP BOTOL BEKAS
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ![profile views](https://komarev.com/ghpvc/?username=givpn11&color=blue)
