@@ -1,4 +1,4 @@
-# BACA DULU tod KALAU BISA BIAR paham
+# BACA DULU KALAU BISA BIAR paham sikit tak
 *Script yang ada kak sini dah ana bypass semua , antum tinggal copas saja tak usah banyak cakap lagi ok*
 # human error
 *Ada nak error antum report ke ana , tapi jangan nak maki tak jelas ana tak kan respon antum ok*
