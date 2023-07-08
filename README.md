@@ -1,6 +1,6 @@
 # BACA DULU KALAU BISA BIAR paham sikit tak apa
 *Script yang ada kak sini dah ana bypass semua , antum tinggal copas saja tak usah banyak cakap lagi ok*
-# human error
+# human error 
 *Ada nak error antum report ke ana on telegram, tapi jangan nak maki tak jelas ana tak kan respon antum ok*
 -
 *Note Kalu ana online akan nak respon antum dan tak setiap detik ana online pula ok*
