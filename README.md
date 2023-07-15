@@ -1,10 +1,6 @@
-# BACA DULU KALAU BISA BIAR paham sikit tak apa 
-*Script yang ada kak sini dah ana bypass semua , antum tinggal copas saja tak usah banyak cakap lagi ok*
-# human error 
-*Ada nak error antum report ke ana on telegram, tapi jangan nak maki tak jelas ana tak kan respon antum ok*
--
-*Note Kalu ana online akan nak respon antum dan tak setiap detik ana online pula ok*
-# Cek juga penyedia VPS support untuk digunakan VPN/PROXY,? karena beberapa penyedia VPS melarang penggunaan VPN/PROXY
+<p align="center">
+  <b><!--<a href="https://github.com/givpn/aio">-->Auto Script VPS For Create VPN on Debian or Ubuntu Server</a></b><br>
+  <b><!--<a href="https://github.com/givpn/aio">-->Also check VPS support provider to use VPN/PROXY,? because some VPS providers prohibit the use of VPN/PROXY</a></b><br>
 
 <div>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&pause=1000&color=0600F7&center=true&vCenter=true&width=435&lines=Welcome+to+givpn+in+github;Not+an+expert+just+a+hobbyist" alt="Typing SVG" /></a></h1>
