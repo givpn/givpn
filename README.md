@@ -18,17 +18,37 @@
 </p>
   </div>
 
-## Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/givpn_grup/)
+<p align="center">
+  <b><!--<a href="https://github.com/givpn/aio">-->Contact</a></b><br>
+<p align="center">
+<a href="https://t.me/givpn/"> <img src="https://img.shields.io/badge/Chat-Telegram-blue" style="max-width:200%;">
+<a href="https://t.me/givpn_grup/"> <img src="https://img.shields.io/badge/Grup-Telegram-blue" style="max-width:200%;">
 
-# Buy me a coffee
-[![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/givpn11)
-[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/qris-givpn.jpg)
-[![Bitcoin donate button](https://img.shields.io/badge/Donate-Bitcoin-orange)](https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i)
-[![Ethereum donate button](https://img.shields.io/badge/Donate-Ethereum-blue)](https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554)
-<!-- <a href="https://www.digitalocean.com/?refcode=8a474003bf18&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a> -->
-# LICENSE
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <b><!--<a href="https://github.com/givpn/aio">-->Donate</a></b><br>
+<p align="center">
+<a href="https://paypal.me/givpn11"> <img src="https://img.shields.io/badge/Donate-PayPal-yellow" style="max-width:200%;">
+<a href="https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/qris-givpn.jpg"> <img src="https://img.shields.io/badge/Donate-QRIS-red" style="max-width:200%;">
+<a href="https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i"> <img src="https://img.shields.io/badge/Donate-Bitcoin-orange" style="max-width:200%;">
+<a href="https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554"> <img src="https://img.shields.io/badge/Donate-Ethereum-blue" style="max-width:200%;">
 
-![profile views](https://komarev.com/ghpvc/?username=givpn11&color=blue)
+<!--<p align="center">
+  <b><!--<a href="https://github.com/givpn/aio"><!--List Donate</a></b><br>-->
+<!--<div align="center">-->
+ <!-- 
+| Name  | Donation Fund  |
+| :------------ | -----:|
+| Goodi         |  $5 |
+| Olly          | $15 |
+| Bakulan.ID    | 25k |
+| arlin         |  5k |
+| VPN-STORE     | 10k |
+| dodo          | 30k |
+| Pech          | $54 |
+-->
+</div>
+
+<p align="center">
+  <a><img src="https://komarev.com/ghpvc/?username=givpn11&color=blue" style="max-width:200%;">
+<p align="center">
+<a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" style="max-width:200%;">
